@@ -7,6 +7,10 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
+## IDE
+
+- [Android Studio](https://developer.android.com/studio/)
+
 ## Visual Studio Code Extensions
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)
@@ -19,6 +23,10 @@
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocompletes filenames
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Shortcut commands for React native tools
+
+## Java/Kotlin Tools
+- [Ktlint](https://github.com/shyiko/ktlint) - an anti-bikeshedding Kotlin Linter with built-in formatter.
+- [Spotless](https://github.com/diffplug/spotless) - a general-purpose formatting plugin with batteries included.
 
 ## macOS
 - [Sip](http://sipapp.io/) (freemium) - color picker
